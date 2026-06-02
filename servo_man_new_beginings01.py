@@ -432,7 +432,7 @@ def startUp():
         print(".*.*.*")
         utime.sleep(1)
         print("data suggests low light conditions")
-        sam.say("fuck its dark here")
+        sam.say(" it is dark here")
         print(".*.*.*")
         utime.sleep(1)
         activateLightsOnly = input("activate lights only? : ") #single line will set the object and print the input req 
