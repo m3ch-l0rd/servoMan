@@ -2,9 +2,12 @@
   is dedicated to future multithreaded process development for servoMan, use of most basic onBoard features should be set up, majority of most current function list is operational.
   Not using SAM library or functionality. 
 
+"...00.py" :
+START HERE - This is the official baseline code, starting point, for a freash servoMan newb build.
+
 "...01.py" :
   servoMan talks, requires SAM library
-  increased focus on 
+  increased focus on ui/ux
   Additional Hardware:
     - 2x jumper wires 
     - 1x salvaged speaker (8-10ohm ideally)
