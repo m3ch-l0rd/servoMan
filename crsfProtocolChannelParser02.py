@@ -1,3 +1,7 @@
+# By: m3ch-l0rd
+# Date: 06022026
+# most successful micropython crsf protocol 
+# maps "servo0" & "servo1" to "pitch" and "roll" on the right joystick of my radiomaster zorro transmitter 
 import time
 from machine import UART, Pin, PWM
 
