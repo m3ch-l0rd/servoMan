@@ -1,3 +1,10 @@
+# By: m3ch_l0rd
+# Date: 06012026
+# was able to live read Elrs/crsf data frame...packets up to all 16 channels
+# was not able to save said data to a variable (something wrong with the type)
+# may return for experiments or parallel dev work 
+# **( failure @  line: 118)
+
 import time
 from machine import Pin, UART, PWM
 
